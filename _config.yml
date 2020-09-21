@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sajin Sasy's Homepage"
+title                    : "Sajin Sasy"
 title_separator          : "-"
 name                     : &name "Sajin"
 description              : &description "personal description"
