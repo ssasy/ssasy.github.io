@@ -8,17 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Cryptography, Security, and Privacy (CrySP) Lab at the University of Waterloo, where I am fortunate to be supervised by [Ian Goldberg](https://cs.uwaterloo.ca/~iang/).
+I am a PhD candidate in the [Cryptography, Security, and Privacy (CrySP) group](https://crysp.uwaterloo.ca/)  at the University of Waterloo, where I am fortunate to be supervised by [Ian Goldberg](https://cs.uwaterloo.ca/~iang/).
 Before that, I completed my Master's under the supervision of [Sergey Gorbunov](https://sergeyg.tech/).
 I have also spend two wonderful terms over the course of my PhD as a research intern with Microsoft Research Cambridge under the supervision of [Andrew Paverd](https://ajpaverd.org/) (Spring 2022) and [Olya Ohrimenko](https://oohrimenko.github.io/) (Winter 2019).
 
 
-I am interested in computer security and privacy problems broadly. In particular, research topics include, but are not limited to:
+I am interested in computer security and privacy problems broadly. In particular, my research topics include, but are not limited to:
 
 <ul>
 <li> Privacy-preserving computations </li>
+    <ul>
+    <li> Oblivious RAM (ORAMs) </li>
+    <li> Oblivious data structures and algorithms</li>
+    <li> Privacy-preserving machine learning</li>
+    <li> Privacy-preserving databases </li>
+    </ul>
 
 <li> Privacy-preserving communications </li>
+    <ul>
+    <li> Anonymous communications systems </li>
+    <li> Metadata-protected communications systems </li>
+    </ul>
 
 <li> Differential privacy </li>
 
