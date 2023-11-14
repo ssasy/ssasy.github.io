@@ -22,7 +22,7 @@ I am interested in computer security and privacy problems broadly. In particular
 
 <li> Differential privacy </li>
 
-</li> Zero-knowledge proof systems</li>
+<li> Zero-knowledge proof systems</li>
 
 </ul>
 
