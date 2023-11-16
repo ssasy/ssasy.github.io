@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in the [Cryptography, Security, and Privacy (CrySP) group](https://crysp.uwaterloo.ca/)  at the University of Waterloo, where I am fortunate to be supervised by [Ian Goldberg](https://cs.uwaterloo.ca/~iang/).
 Before that, I completed my Master's under the supervision of [Sergey Gorbunov](https://sergeyg.tech/).
-I have also spend two wonderful terms over the course of my PhD as a research intern with Microsoft Research Cambridge under the supervision of [Andrew Paverd](https://ajpaverd.org/) (Spring 2022) and [Olya Ohrimenko](https://oohrimenko.github.io/) (Winter 2019).
+I have also spent two wonderful terms over the course of my PhD as a research intern with Microsoft Research Cambridge under the supervision of [Andrew Paverd](https://ajpaverd.org/) (Spring 2022) and [Olya Ohrimenko](https://oohrimenko.github.io/) (Winter 2019).
 
 
 I am interested in computer security and privacy problems broadly.
