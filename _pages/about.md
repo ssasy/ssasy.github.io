@@ -13,7 +13,9 @@ Before that, I completed my Master's under the supervision of [Sergey Gorbunov](
 I have also spend two wonderful terms over the course of my PhD as a research intern with Microsoft Research Cambridge under the supervision of [Andrew Paverd](https://ajpaverd.org/) (Spring 2022) and [Olya Ohrimenko](https://oohrimenko.github.io/) (Winter 2019).
 
 
-I am interested in computer security and privacy problems broadly. In particular, my research topics include, but are not limited to:
+I am interested in computer security and privacy problems broadly.
+Broadly, my research focuses on improving individuals' digital privacy by designing efficient solutions for privacy-preserving computations and communications.
+In particular, my research topics include, but are not limited to:
 
 <ul>
 <li> Privacy-preserving computations </li>
