@@ -14,7 +14,7 @@ I have also spend two wonderful terms over the course of my PhD as a research in
 
 
 I am interested in computer security and privacy problems broadly.
-Broadly, my research focuses on improving individuals' digital privacy by designing efficient solutions for privacy-preserving computations and communications.
+My research focuses on improving individuals' digital privacy by designing efficient solutions for privacy-preserving computations and communications.
 In particular, my research topics include, but are not limited to:
 
 <ul>
