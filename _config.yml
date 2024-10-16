@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sajin Sasy"
   avatar           : "ss_pic.jpg"
-  bio              : "Tenure-Track Faculty \n @ CISPA"
+  bio              : "Tenure-Track Faculty @ CISPA"
   location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=rrJTgX0AAAAJ&hl=en"
-  email            :
+  email            : "sasy@cispa.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
